@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shreya verma
+- 👋 Hi, I’m Shreya Verma
 
 - 🌱 I’m currently learning ...Full Stack
 
